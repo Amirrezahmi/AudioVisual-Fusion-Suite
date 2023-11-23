@@ -1,0 +1,10 @@
+version: "3"
+services:
+  iris-classifier-uplink:
+    # if something fails or the server is restarted, the container will restart
+    restart: always 
+    container_name: vi-uplink
+    image: vi-uplink
+    build: 
+      # build the iris clasifier image from the Dockerfile in the current directory
+      context: . 

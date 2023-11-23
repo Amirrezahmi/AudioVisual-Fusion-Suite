@@ -1,0 +1,5 @@
+transformers
+timm
+opencv-contrib-python==4.8.0.74
+pytest-shutil
+ffmpegcv
