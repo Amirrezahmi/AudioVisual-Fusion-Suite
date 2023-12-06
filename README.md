@@ -43,7 +43,7 @@ Detailed usage instructions are provided in each directory's notebooks. Please r
 
 ## Examples
 
-For some samples please visit [our Drive][https://drive.google.com/drive/u/0/mobile/folders/1WI3D0DMJ20VqoHZYsa6rztD1cMVqyfvg?usp=sharing]. For more examples visit our paper.
+For some samples please visit [our Drive](https://drive.google.com/drive/u/0/mobile/folders/1WI3D0DMJ20VqoHZYsa6rztD1cMVqyfvg?usp=sharing). For more examples visit our paper.
 
 ## Contributing
 
