@@ -1,5 +1,7 @@
 # AudioVisual Fusion Suite
 
+Summary: In this project, we transferred the target from the first video to the second one. Additionally, we altered the characteristics of the source audio to match those of the target audio. We then blended these two projects into a single project.
+
 Please read our research paper (Project_latex.pdf) for complete explanations in all respects about this repo. Because we only mentioned a summary in this Github README. 
 
 View the video below to gain a comprehensive understanding of our project (Video is too low due to Github limits).
