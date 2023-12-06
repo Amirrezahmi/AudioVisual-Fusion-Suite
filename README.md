@@ -26,7 +26,7 @@ Finally, to use the combination of these two applications (video inpaintig and v
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-repo>/your-project.git
+[git clone https://github.com/<your-repo>/your-project.git](https://github.com/Amirrezahmi/Video-Inpainting-and-Voice-Cloning.git)
 ```
 
 ## Usage
