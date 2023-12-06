@@ -2,6 +2,14 @@
 
 Please read our research paper (Project_latex.pdf) for complete explanations in all respects about this repo. Because we only mentioned a summary in this Github README. 
 
+View the video below to gain a comprehensive understanding of our project (Video is too low due to Github limits).
+
+
+https://github.com/Amirrezahmi/Video-Inpainting-and-Voice-Cloning/assets/89692207/9eee5106-bb7f-446b-aadb-57ea04978430
+
+
+
+
 This project goes beyond simply finding and evaluating models; it combines selected models into an interesting application. Our chosen model for image segmentation is SAM, and we've successfully applied it to video (Approach 3 and 2). We also utilized the DETR (End-to-End Object Detection) model with a ResNet-50 backbone, and pushed the dockerized application to Docker Hub for use. For voice conversion, we selected the so-vits-svc-fork Model, which enables us to change a singer's voice to any desired sound. Finally, we integrated these two applications into one: Combination of vi & vc.
 
 ## Getting Started
@@ -32,6 +40,10 @@ Clone the repository:
 ## Usage
 
 Detailed usage instructions are provided in each directory's notebooks. Please refer to them for specific steps to run the models.
+
+## Examples
+
+For some samples please visit [our Drive]([https://openweathermap.org/](https://drive.google.com/drive/u/0/mobile/folders/1WI3D0DMJ20VqoHZYsa6rztD1cMVqyfvg?usp=sharing)). For more examples visit our paper.
 
 ## Contributing
 
