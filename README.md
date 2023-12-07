@@ -32,7 +32,7 @@ Finally, to use the combination of these two applications (video inpaintig and v
 ## Prerequisites
 
   - Python 3.x
-  - oogle Colab or Jupyter Notebook
+  - Google Colab or Jupyter Notebook
   - Docker
   - Linux system (Ubuntu 22.04)
   - Nvidia GPU
