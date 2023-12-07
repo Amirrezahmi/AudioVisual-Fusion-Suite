@@ -4,7 +4,14 @@ Summary: In this project, we transferred the target from the first video to the 
 
 Please read our research paper (Project_latex.pdf) for complete explanations in all respects about this repo. Because we only mentioned a summary in this Github README. 
 
-View the video below to gain a comprehensive understanding of our project (Video is too low due to Github limits).
+View the videos below to gain a comprehensive understanding of our project (the longer video is too low due to Github limits).
+
+
+
+
+https://github.com/Amirrezahmi/Video-Inpainting-and-Voice-Cloning/assets/89692207/4fdb5c0c-8238-47fe-af5c-bdac6b3ffeb4
+
+
 
 
 https://github.com/Amirrezahmi/Video-Inpainting-and-Voice-Cloning/assets/89692207/9eee5106-bb7f-446b-aadb-57ea04978430
